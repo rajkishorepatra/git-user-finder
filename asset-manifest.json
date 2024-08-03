@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-user-finder/static/css/main.f311741a.css",
+    "main.js": "/git-user-finder/static/js/main.b208ca2c.js",
+    "index.html": "/git-user-finder/index.html",
+    "main.f311741a.css.map": "/git-user-finder/static/css/main.f311741a.css.map",
+    "main.b208ca2c.js.map": "/git-user-finder/static/js/main.b208ca2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f311741a.css",
+    "static/js/main.b208ca2c.js"
+  ]
+}
