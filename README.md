@@ -1,6 +1,7 @@
 # GitHub User Finder
 
 **URL:** https://rajkishorepatra.github.io/git-user-finder
+
 GitHub User Finder is a web application that allows users to search for GitHub users and view their profiles along with their repositories. The application provides fuzzy complete suggestions as the user types in the search input, making it easier to find the desired GitHub user.
 
 ## Features
